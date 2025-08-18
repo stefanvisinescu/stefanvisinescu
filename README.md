@@ -8,7 +8,7 @@ This profile highlights selected projects: stochastic modelling of ecDNA, RNA-se
 ## 🔗 Quick links
 - 💼 LinkedIn: [Here](www.linkedin.com/in/stefan-teodor-visinescu-b53967180)
 - 📄 CV: [View PDF](./CV_Stefan_Visinescu.pdf)
-- 🖥️ OncoHub live: https://oncohub.app
+- 🖥️ OncoHub live: [https://oncohub.app](https://eoncohub.com/)
 - 📚 Theses: [Master](https://github.com/stefanvisinescu/master-thesis) · [Bachelor](https://github.com/stefanvisinescu/bachelor-thesis)
 
 ---
