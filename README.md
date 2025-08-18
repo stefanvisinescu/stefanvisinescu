@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Ștefan-Teodor Vișinescu
 
-I work at the intersection of **computational genomics**, **AI for healthcare**, and **scalable backend systems and platforms**.  
+I build end-to-end systems at the intersection of **mobile health**, **passive sensing**, and **AI/ML**, with experience in **privacy-preserving learning (federated)**, **cloud backends (Azure)**, and **clinical-grade analytics**.
 This profile highlights selected projects: stochastic modelling of ecDNA, RNA-seq pipelines, HPC workflows, and an industry case study (OncoHub).
 
 ---
