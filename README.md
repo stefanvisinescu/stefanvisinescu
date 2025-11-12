@@ -17,5 +17,7 @@ This profile highlights selected projects: stochastic modelling of ecDNA, RNA-se
 - [ecDNA Stochastic Sims](https://github.com/stefanvisinescu/ecdna-stochastic-sims)  
 - [RNA-seq Pipelines (R)](https://github.com/stefanvisinescu/rna-seq-pipelines-R)  
 - [OncoHub – Backend Spec](https://github.com/stefanvisinescu/oncohub-backend-spec)
+- [IoT Data Pipeline](https://github.com/stefanvisinescu/data-engineer-challenge)
+- [ADAMMA — Real-time Activity and MET Tracker](https://github.com/stefanvisinescu/adamma)
 
 ---
