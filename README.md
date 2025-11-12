@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Ștefan-Teodor Vișinescu
 
-I build end-to-end systems at the intersection of **mobile health**, **passive sensing**, and **AI/ML**, with experience in **privacy-preserving learning (federated)**, **cloud backends (Azure)**, and **clinical-grade analytics**.
-This profile highlights selected projects: stochastic modelling of ecDNA, RNA-seq pipelines and an industry case study (OncoHub).
+I build end-to-end systems at the intersection of mobile health, passive sensing, and AI/ML, with experience in privacy-preserving learning (federated), cloud backends (Azure), and clinical-grade analytics.
+This profile highlights selected projects in stochastic modelling, RNA-seq pipelines, IoT engineering, and industry applications.
 
 ---
 
@@ -14,10 +14,10 @@ This profile highlights selected projects: stochastic modelling of ecDNA, RNA-se
 ---
 
 ## ⭐ Highlighted work
-- [ecDNA Stochastic Sims](https://github.com/stefanvisinescu/ecdna-stochastic-sims)  
-- [RNA-seq Pipelines (R)](https://github.com/stefanvisinescu/rna-seq-pipelines-R)  
-- [OncoHub – Backend Spec](https://github.com/stefanvisinescu/oncohub-backend-spec)
-- [IoT Data Pipeline](https://github.com/stefanvisinescu/data-engineer-challenge)
-- [ADAMMA — Real-time Activity and MET Tracker](https://github.com/stefanvisinescu/adamma)
+- [ecDNA Stochastic Sims](https://github.com/stefanvisinescu/ecdna-stochastic-sims)-Modelling genomic instability
+- [RNA-seq Pipelines (R)](https://github.com/stefanvisinescu/rna-seq-pipelines-R)-Automated transcriptomics analysis
+- [OncoHub – Backend Spec](https://github.com/stefanvisinescu/oncohub-backend-spec)-Industry case study for cancer data integration
+- [IoT Data Pipeline](https://github.com/stefanvisinescu/data-engineer-challenge)-End-to-end sensor data collection, validation, and storage with PostgreSQL and JSONL
+- [ADAMMA — Real-time Activity and MET Tracker](https://github.com/stefanvisinescu/adamma)-Mobile app for human activity recognition and daily energy expenditure tracking
 
 ---
