@@ -1,7 +1,8 @@
 # 👋 Hello, I’m Ștefan-Teodor Vișinescu
 
-I build end-to-end systems at the intersection of mobile health, passive sensing, and AI/ML, with experience in privacy-preserving learning (federated), cloud backends (Azure), and clinical-grade analytics.
-This profile highlights selected projects in stochastic modelling, RNA-seq pipelines, IoT engineering, and industry applications.
+I am a computer scientist and researcher building systems at the intersection of High-Performance Computing (HPC), Biomedical AI, and Privacy-Preserving Systems. My work focuses on distributed algorithms, stochastic modelling, and clinical-grade analytics.
+
+This profile highlights selected projects in computational biology, federated learning, and robust data engineering.
 
 ---
 
@@ -14,7 +15,7 @@ This profile highlights selected projects in stochastic modelling, RNA-seq pipel
 ---
 
 ## ⭐ Highlighted work
-- [ecDNA Stochastic Sims](https://github.com/stefanvisinescu/ecdna-stochastic-sims)-Modelling genomic instability
+- [ecDNA Stochastic Sims](https://github.com/stefanvisinescu/ecdna-stochastic-sims)-Modelling genomic instability using Gillespie algorithms and parallelized Monte Carlo simulations.
 - [RNA-seq Pipelines (R)](https://github.com/stefanvisinescu/rna-seq-pipelines-R)-Automated transcriptomics analysis
 - [OncoHub – Backend Spec](https://github.com/stefanvisinescu/oncohub-backend-spec)-Industry case study for cancer data integration
 - [IoT Data Pipeline](https://github.com/stefanvisinescu/data-engineer-challenge)-End-to-end sensor data collection, validation, and storage with PostgreSQL and JSONL
