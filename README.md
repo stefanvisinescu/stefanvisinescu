@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Ștefan-Teodor Vișinescu
 
-I am a computer scientist and researcher building systems at the intersection of High-Performance Computing (HPC), Biomedical AI, and Privacy-Preserving Systems. My work focuses on distributed algorithms, stochastic modelling, and clinical-grade analytics.
+I am a computer scientist, data engineer with production experience and researcher building systems at the intersection of High-Performance Computing (HPC), Biomedical AI, and Privacy-Preserving Systems. My work focuses on distributed algorithms, stochastic modelling, and clinical-grade analytics.
 
 This profile highlights selected projects in computational biology, federated learning, and robust data engineering.
 
